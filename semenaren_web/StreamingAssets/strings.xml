@@ -1,0 +1,22 @@
+<strings>
+    <package lang="sk">
+        <string name="KIOSK_HOME">Výber aplikácií</string>
+        <string name="APP_TITLE">Vaňkova Pražská Semena</string>
+        <string name="APP_DESCRIPTION">V rokoch 1918 až 1948 bola veľmi rozšírená aj reklama na rôzne poľnohospodárske a záhradnícke potreby a území Československa množstvo firiem a produktov, ktoré poskytovali  práve na tieto komodity. Pre mnoho ľudí predstavovalo záhradkárčenie populárnu formu  trávenia voľného času.  Dokonca ešte aj dnes môžeme označiť Slovensko za akúsi „záhradkársku veľmoc“.  Poďte si s nami zahrať hru s obchodným regálom firmy VAŇKOVA PRAŽSKÁ SEMENA z obdobia I. ČSR. Priraďte správne semienko rastliny k správnemu papierovému kontajneru s obrázkom jednotlivých rastlín.</string>
+        <string name="APP_ENTER">Spustiť</string>
+        <string name="APP_CONGRATS">Gratulujeme</string>
+        <string name="APP_CONGRATS_LINE_1">Uložili ste správne</string>
+        <string name="APP_CONGRATS_LINE_2">semien</string>
+    </package>
+    <package lang="en">
+        <string name="KIOSK_HOME">Back to launcher</string>
+        <string name="APP_TITLE">Seedcase</string>
+        <string name="APP_DESCRIPTION">
+            description....
+        </string>
+        <string name="APP_ENTER">Start</string>
+        <string name="APP_CONGRATS">Congratulations!</string>
+        <string name="APP_CONGRATS_LINE_1">You've correctly stored</string>
+        <string name="APP_CONGRATS_LINE_2">seeds</string>        
+    </package>            
+</strings>

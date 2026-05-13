@@ -1,0 +1,41 @@
+{
+  "data" : "Seeds",
+  "initial_time" : 20,
+  "touch_speed" : 0.5,
+  "camera_shake_size" : 2,
+  "camera_shake_count" : 3,
+  "levels" : [
+    {
+      "rows" : [3], 
+      "focus" : 3, "bonus_period" : 5, "bonus_time" : 5, "goal" : 4 
+    },
+    {
+      "rows" : [2],
+      "focus" : 2, "bonus_period" : 5, "bonus_time" : 5, "goal" : 4 
+    },
+    {
+      "rows" : [2,3], 
+      "focus" : 2.5, "bonus_period" : 6, "bonus_time" : 5, "goal" : 8 
+    },
+    {
+      "rows" : [1,2,3], 
+      "focus" : 2, "bonus_period" : 6, "bonus_time" : 5, "goal" : 12  
+    },
+    {
+      "rows" : [5,6,7], 
+      "focus" : 6, "bonus_period" : 6, "bonus_time" : 5, "goal" : 12  
+    },
+    {
+      "rows" : [3,4,5,6], 
+      "focus" : 4.5, "bonus_period" : 8, "bonus_time" : 5, "goal" : 12  
+    },
+    {
+      "rows" : [1,2,6,7], 
+      "focus" : 3, "bonus_period" : 8, "bonus_time" : 5, "goal" : 12  
+    },
+    {
+      "rows" : [0,1,2,3,4,5,6,7], 
+      "focus" : 4, "bonus_period" : 8, "bonus_time" : 5, "goal" : 0  
+    }                                                            
+  ]
+}

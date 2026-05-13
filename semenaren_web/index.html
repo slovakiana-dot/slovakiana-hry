@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Semenaren</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/BuildWeb.json", {onProgress: UnityProgress});
+      window.onload = function()
+      {
+        var container = document.getElementById("unityContainer");
+        if (container != null)
+        {
+          var canvasses = container.getElementsByTagName("canvas");
+          if (canvasses.length > 0)
+          {
+              canvasses[0].ondragstart = function(event) { event.preventDefault(); return false; };
+          } 
+        }        
+      }      
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 960px; height: 540px"></div>
+      <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+        <div class="title">Semenaren</div>
+      </div>
+    </div>
+  </body>
+</html>
