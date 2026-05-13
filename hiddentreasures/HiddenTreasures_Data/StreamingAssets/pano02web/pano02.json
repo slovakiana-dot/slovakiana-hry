@@ -1,0 +1,227 @@
+{
+    "thumbnailPath": "2_thumb.jpg",
+    "maxFov" : 70,
+    "minFov" : 25,    
+	"imagePath": "2.jpg",
+	"outlinesColor": {
+		"r": 1,
+		"g": 0.66,
+		"b": 0,
+		"a": 1.0   
+    },
+    "strings": {
+        "languagePacks": [
+			{
+                "lang": "sk",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "N89 - Cesta k slobode"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": "Pri 30. výročí Nežnej revolúcie sa rozhodlo SNM projekt výstavy rozšíriť o rozmer vnímania slobody. Od revolučných dní v roku 1989 dorástli na Slovensku dve generácie mladých ľudí, ktorí buď Nežnú revolúciu nezažili, alebo mali sotva 10 rokov a teda ešte nerozumeli politickým zmenám v štáte. Preto začiatok výstavy je zasadený do polovice 80. rokov 20. storočia a vnímavý návštevník bude mať možnosť spoznať alebo pripomenúť si hlavné obmedzenia slobody v komunistickom Československu."
+                    }
+                ]
+            },
+            {
+                "lang": "en",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "N89 - Cesta k slobode"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "lang": "de",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "N89 - Cesta k slobode"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            }
+		]
+    },
+    "treasures": [
+        {
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Kočík"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Manifestácií a protestov sa zúčastňovali nie len tí, ktorých vtedajší režim obmedzoval či utláčal, ale aj najmladšie generácie, ktoré ešte nemohli poznať nástrahy a nebezpečenstvo komunistického režimu. Účastníkov protestných akcií nemotivovala len vidina ich lepšieho života, ale predovšetkým svojich detí."
+						},
+						{
+							"name": "HINT",
+							"text": "Manifestácií počas nežnej revolúcie sa zúčastňovali aj najmenší. Pamätáte sa na to v akých kočíkoch sa vozili?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "2_1_patch.png",
+            "uvPos": {
+                "x": 0.842580000,
+                "y": 0.603000000
+            },
+            "uvSize": {
+                "x": 0.044040000,
+                "y": 0.071120000
+            },
+            "imagePath": "2_1.jpg",
+			"outlinePath": "2_1_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Transparenty"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Neodmysliteľnou súčasťou manifestácií a protestov proti komunistickému režimu sa stali transparenty. Texty a heslá, ktoré tieto transparenty zdobili, trefne reflektovali dobu, v ktorej sa ich majitelia nachádzali a stali sa akýmsi symbolom odporu totalitného režimu"
+						},
+						{
+							"name": "HINT",
+							"text": "Transparenty vyjadrovali pocity ľudí a túžbu po zmene. Nájdite medzi transparentami ten, ktorý zobrazuje Štefánika na 500-korunovej bankovke."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "2_2_patch.png",
+            "uvPos": {
+                "x": 0.477820000,
+                "y": 0.434280000
+            },
+            "uvSize": {
+                "x": 0.169240000,
+                "y": 0.197840000
+            },
+            "imagePath": "2_2.jpg",
+			"outlinePath": "2_2_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Verejnosť proti násiliu - logo"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "V Novembri 89 založili Milan Kňažko, Ján Budaj, Fedor Gál a ďalšie osobnosti hnutie Verejnosť proti násiliu, známe pod skratkou VPN. Jeho logom sa stalo červeno-modré písmeno V. Podľa jeho autora Karola Rosmányho malo symbolizovať, že odpor, ktorý ľudia prejavili proti režimu, dosiahol svoj vrchol."
+						},
+						{
+							"name": "HINT",
+							"text": "Hlavným hnutím na Slovensku bola Verejnosť proti násiliu. Pamätáte sa na jej logo? Hľadajte."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "2_3_patch.png",
+            "uvPos": {
+                "x": 0.366220000,
+                "y": 0.419720000
+            },
+            "uvSize": {
+                "x": 0.033160000,
+                "y": 0.091280000
+            },
+            "imagePath": "2_3.jpg",
+			"outlinePath": "2_3_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Vlajka ČSR"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Symbolom názorovej jednoty dvoch spolužijúcich národov proti komunistickému režimu bola aj Československá štátna vlajka. Československá vlajka v tejto podobe vznikla v roku 1920 a jej autorstvo sa pripisuje českému heraldikovi a archivárovi Jaroslavovi Kursovi."
+						},
+						{
+							"name": "HINT",
+							"text": "Na manifestáciách sa objavilo najviac československých vlajok v histórii na jednom mieste. Viete ako vyzerala?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "2_4_patch.png",
+            "uvPos": {
+                "x": 0.656740000,
+                "y": 0.489040000
+            },
+            "uvSize": {
+                "x": 0.019400000,
+                "y": 0.061760000
+            },
+            "imagePath": "2_4.jpg",
+			"outlinePath": "2_4_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Transparent"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "O skutočnosti, že sa na nežnej revolúcií vo vysokej miere zúčastnila aj umelecká vrstva národa svedčia aj kreatívne texty na dochovaných transparentoch z tohto miľníka."
+						},
+						{
+							"name": "HINT",
+							"text": "Na transparentoch bolo veľa básní. Nájdite medzi nimi tú, ktorá začína slovami - Ja ódu spievam na tú krásu."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "2_5_patch.png",
+            "uvPos": {
+                "x": 0.542800000,
+                "y": 0.590840000
+            },
+            "uvSize": {
+                "x": 0.029280000,
+                "y": 0.070160000
+            },
+            "imagePath": "2_5.jpg",
+			"outlinePath": "2_5_outline.png"
+        }
+    ]
+}

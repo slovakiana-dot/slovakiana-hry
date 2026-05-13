@@ -1,0 +1,227 @@
+{
+  "thumbnailPath": "4_thumb.jpg",
+  "minFov" : 25,
+  "maxFov" : 50,
+	"imagePath": "4.jpg",
+	"outlinesColor": {
+		"r": 1,
+		"g": 0.66,
+		"b": 0,
+		"a": 1.0   
+    },
+    "strings": {
+        "languagePacks": [
+			{
+                "lang": "sk",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Dejiny Slovenska"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": "Výstava v časti stredovek pokrýva obdobie od vzniku Uhorského kráľovstva až po bitku pri Moháči, vymedzené rokmi 1000 až 1526. Expozícia mapuje stredoveké politické dejiny, umenie a kultúru. Pojednáva o vzniku miest, výstavbe hradov, vojenstve i duchovnom živote stredovekého človeka. Medzi vystavenými predmetmi vynikajú dvojsečný meč z 10. storočia, či neskorogotický oltár z Palúdzky z roku okolo 1520."
+                    }
+                ]
+            },
+            {
+                "lang": "en",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Dejiny Slovenska"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "lang": "de",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Dejiny Slovenska"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            }
+		]
+    },
+    "treasures": [
+        {
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Erbová listina Bratislava"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Erb Bratislavy tvorí v červenom neskorogotickom štíte strieborné trojvežové opevnenie s bránou. Na červených strechách veží sú po dve zlaté gule so zlatými hrotmi. V bráne sa nachádzajú do polovice vytiahnuté zlaté mreže. Po prvýkrát bol erb Bratislavy farebne upravený a namaľovaný práve na erbovej listine kráľa Žigmunda Luxemburského z roku 1436."
+						},
+						{
+							"name": "HINT",
+							"text": "Vzácna erbová listina zaujme zobrazením erbu Bratislavy na výraznom červenom podklade. Podarí sa Vám nájsť tento vzácny artefakt?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "4_1_patch.png",
+            "uvPos": {
+                "x": 0.303074378,
+                "y": 0.519050878
+            },
+            "uvSize": {
+                "x": 0.034166096,
+                "y": 0.057723021
+            },
+            "imagePath": "4_1.jpg",
+			"outlinePath": "4_1_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Dvojsečný meč"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Dvojsečný meč, na čepeli s nápisom INGELRII. Samostatne kované časti rukoväte sú zdobené tauziou a plátovaním. Výzdobu tvoria hladké strieborné a puncované bronzové plošky oddelené medenými pásikmi. Na hlavici rukoväte sa nachádza vetvičkovitý ornament a po stranách štylizované zvieracie hlavičky."
+						},
+						{
+							"name": "HINT",
+							"text": "Dvojsečný meč hľadajte vedľa makiet hradov."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "4_2_patch.png",
+            "uvPos": {
+                "x": 0.518451974,
+                "y": 0.505247547
+            },
+            "uvSize": {
+                "x": 0.053331052,
+                "y": 0.291809263
+            },
+            "imagePath": "4_2.jpg",
+			"outlinePath": "4_2_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Krúžková zbroj"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Krúžková zbroj, ktorá je v histórií často označovaná ako pancier, je historická pasívna ochrana bojovníka, ktorá bola vyrábaná z husto zošitých malých kovových krúžkov. Krúžková zbroj bola základnou súčasťou ochrany vojaka. Ranno-stredoveká zbroj v našom kultúrnom priestore bol pomerne dlhá (siahala väčšinou až pod kolená) a spočiatku mala krátky rukáv. V 12. storočí sa rukáv predĺžil a koncom 12. storočia sa súčasťou brnenia stali aj rukavice."
+						},
+						{
+							"name": "HINT",
+							"text": "Pod brnenie patrila krúžková zbroj. Nájdete ju medzi zbraňami?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "4_3_patch.png",
+            "uvPos": {
+                "x": 0.625342231,
+                "y": 0.544490075
+            },
+            "uvSize": {
+                "x": 0.021959845,
+                "y": 0.080994752
+            },
+            "imagePath": "4_3.jpg",
+			"outlinePath": "4_3_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Podobizeň Ondreja II."
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Ondrej II. patril do dynastie Arpádovcov. Vládol v rokoch (1205-1218). Ondrej viedol expanzívnu zahraničnú politiku, len do Haliče podnikol 17 výprav. Aby získal stúpencov, štedro rozdával kráľovské majetky za vojenské zásluhy. Všeobecná nespokojnosť šľachty s politikou kráľa vyvrcholila v roku 1222, čo donútilo Ondreja II. vydať Zlatú bulu v prospech nižšej šľachty (zemanov). Šľachta nemusela bojovať za hranicami, iba pri obrane krajiny."
+						},
+						{
+							"name": "HINT",
+							"text": "Na území Slovenska vládli významný panovníci. Jedným z nich bol aj Ondrej II. Viete ako vyzeral? Nájdite ho."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "4_4_patch.png",
+            "uvPos": {
+                "x": 0.710643395,
+                "y": 0.491558293
+            },
+            "uvSize": {
+                "x": 0.022929500,
+                "y": 0.050193931
+            },
+            "imagePath": "4_4.jpg",
+			"outlinePath": "4_4_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Neskoro stredoveké brnenie"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "V 15. storočí prevažovali v ochrane vojakov dva hlavné typy zbroje : Nemecká a Talianska, ktoré sa odlišovali ako počtom tak aj tvarom jednotlivých častí a výzdobou. Celo-plátová zbroj chránila celé telo bojovníka a len na miestach, kde sa železné pláty nenachádzali (napr. podpazušie) sa využívala krúžková zbroj."
+						},
+						{
+							"name": "HINT",
+							"text": "Rytier v brnení sa síce ťažko pohyboval, ale zbroj ho chránila pred údermi mečom. Hľadajte tento ochranný prvok medzi vystavenými atrefaktami."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "4_5_patch.png",
+            "uvPos": {
+                "x": 0.646988364,
+                "y": 0.500798540
+            },
+            "uvSize": {
+                "x": 0.010495095,
+                "y": 0.038558065
+            },
+            "imagePath": "4_5.jpg",
+			"outlinePath": "4_5_outline.png"
+        }
+    ]
+}

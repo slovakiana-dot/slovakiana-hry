@@ -1,0 +1,19 @@
+<strings>
+    <package lang="sk">
+        <string name="KIOSK_HOME">Výber aplikácií</string>
+        <string name="APP_TITLE">Skryté poklady panorám</string>
+        <string name="APP_DESCRIPTION">V panorámach z rôznych výstav sme ukryli zaujímavé objekty. Nájdite ich všetky prostredníctvom nápovedy a dozviete sa o nich veľa zaujímavých vecí. Nezabudnite, že máte možnosť panorámu otáčať do všetkých smerov. Nech sa páči, vyberte si panorámu.</string>
+		<string name="APP_START">Štart</string>
+		<string name="APP_RESTART">Reštart</string>
+        <string name="APP_ENTER">Spustiť</string>
+		<string name="APP_ACCEPT">Hotovo</string>
+		<string name="APP_FINISH_TITLE">HOTOVO!</string>
+        <string name="APP_FINISH_DESCRIPTION">Podarilo sa nájsť všetky poklady v tejto panoráme.</string>
+    </package>
+    <package lang="en">
+        <string name="KIOSK_HOME">Back to launcher</string>
+        <string name="APP_TITLE">Hidden treasures of panoramas</string>
+        <string name="APP_DESCRIPTION"></string>
+        <string name="APP_ENTER">Start</string>
+    </package>            
+</strings>

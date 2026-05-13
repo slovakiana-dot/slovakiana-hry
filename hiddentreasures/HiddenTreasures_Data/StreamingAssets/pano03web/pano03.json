@@ -1,0 +1,227 @@
+{
+    "thumbnailPath": "3_thumb.jpg",
+    "maxFov" : 70,
+    "minFov" : 25,    
+	"imagePath": "3.jpg",
+	"outlinesColor": {
+		"r": 1,
+		"g": 0.66,
+		"b": 0,
+		"a": 1.0   
+    },
+    "strings": {
+        "languagePacks": [
+			{
+                "lang": "sk",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Reklama a obchod (1918-1948)"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": "Viac ako tritisíc vystavených predmetov dokumentuje rôzne podoby reklamy na našom území od vzniku prvej ČSR až do roku 1948. Rozvoj fenoménu reklamy bol viditeľný vo všetkých oblastiach života, či už pracovného alebo súkromného. Továrne, spoločnosti, firmy i jednotlivci začali komunikovať s potenciálnym zákazníkom pomocou vizuálne i slovne nápaditej reklamy."
+                    }
+                ]
+            },
+            {
+                "lang": "en",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Reklama a obchod (1918-1948)"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "lang": "de",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Reklama a obchod (1918-1948)"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            }
+		]
+    },
+    "treasures": [
+        {
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Šijací stroj Singer"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Firma The Singer Company je americký výrobca šijacích strojov, ktorá funguje do dnešných dní. V roku 1851 ju pod názvom I.M.Singer & Company založil podnikateľ a vynálezca Isaac Meeirr Singer a newyorský právnik Edward C. Clark. V priebehu krátkeho obdobia sa stala firma jedným z najväčších výrobcov šijacích strojov na svete."
+						},
+						{
+							"name": "HINT",
+							"text": "Šijací stroj poháňaný nohami je dnes cenným zberateľským kúskom. Kde ho nájdete?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "3_1_patch.png",
+            "uvPos": {
+                "x": 0.481933594,
+                "y": 0.614461263
+            },
+            "uvSize": {
+                "x": 0.069905599,
+                "y": 0.157958984
+            },
+            "imagePath": "3_1.jpg",
+			"outlinePath": "3_1_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Rádiá"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Československo bolo výrazným predstaviteľom elektrotechnického a elektronického priemyslu na svete. Svedčia o tom mnohé fotoaparáty a rádiá, ktoré vznikli v koncernovom podniku Tesla. Podnik Tesla bol založený 10. augusta 1946 v továrni Mikrofona v Prahe za účasti významných predstaviteľov vtedajšej vlády. Podnik vznikol zoštátnením 16 pôvodne samostatných firiem. Išlo buď o československé podniky alebo častejšie o pobočky zahraničných koncernov, akým boli napríklad Phillips či Siemens-radio."
+						},
+						{
+							"name": "HINT",
+							"text": "Na výstave sa objavilo aj viacero elektrónkových rádií. Nájdete ich pod rodinou fotoaparátov."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "3_2_patch.png",
+            "uvPos": {
+                "x": 0.071166992,
+                "y": 0.541707357
+            },
+            "uvSize": {
+                "x": 0.029947917,
+                "y": 0.040934245
+            },
+            "imagePath": "3_2.jpg",
+			"outlinePath": "3_2_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Baťa"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Tomáš Baťa bol zakladateľ obuvníckej firmy Baťa a jeden z najväčších podnikateľov svojej doby, no tiež starosta Zlína  a verejný činiteľ. Spolu s bratom Antonínom ml. a sestrou Annou založil v roku 1894 v Zlíne obuvnícku firmu Baťa a postupne z nej vytvoril rozsiahly komplex výroby, obchodu, dopravy, služieb a financií. Bol jedným z najväčších podnikateľov svojej doby, pričom zaviedol originálne metódy riadenia výroby a obchodu a taktiež systém motivácie pracovníkov."
+						},
+						{
+							"name": "HINT",
+							"text": "Nájdite reklamný pútač obuvníckej firmy Baťa zameraný na Slovákov vracajúcich sa do vlasti."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "3_3_patch.png",
+            "uvPos": {
+                "x": 0.785420736,
+                "y": 0.506062826
+            },
+            "uvSize": {
+                "x": 0.056437174,
+                "y": 0.162516276
+            },
+            "imagePath": "3_3.jpg",
+			"outlinePath": "3_3_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Vaňkova pražská semena"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "V rokoch 1918 až 1948 bola veľmi rozšírená aj reklama na rôzne poľnohospodárske a záhradnícke potreby a na území Československa bolo množstvo firiem a produktov, ktoré poskytovali tieto komodity. Pre mnoho ľudí predstavovalo záhradkárčenie populárnu formu trávenia voľného času. Stojan s regálmi firmy Vaňkova pražská semena z obdobia I. ČSR slúžil na uchovávanie semien rôznych kvetov, ale aj zeleniny."
+						},
+						{
+							"name": "HINT",
+							"text": "Viete v čom boli uložené v predajniach semienka kvetov a zeleniny? V blízkosti stĺpa hľadajte Vaňkovu semenáreň."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "3_4_patch.png",
+            "uvPos": {
+                "x": 0.24202474,
+                "y": 0.504435221
+            },
+            "uvSize": {
+                "x": 0.019124349,
+                "y": 0.072672526
+            },
+            "imagePath": "3_4.jpg",
+			"outlinePath": "3_4_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Philips radio"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Veľmi dôležitými medzníkmi vo svete kultúry a samozrejme vo svete reklamy boli roky 1923-1926. 18.mája 1923 bolo zahájené rádiové vysielanie v Československu a spoločnosť Radiojournal, ktorá mal práva na tvorbu rozhlasových relácií v Československej republike, otvorila dvere úplne novej forme masovej komunikácie a zábavy. V danej dobe išlo o prevratný počin, nakoľko dovtedy mala v Európe pravidelné vysielanie len rozhlasová spoločnosť BBC."
+						},
+						{
+							"name": "HINT",
+							"text": "Na zábavu i poučenie boli určené rádiá pána Philipa. Hľadajte ich reklamný pútač."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "3_5_patch.png",
+            "uvPos": {
+                "x": 0.043884277,
+                "y": 0.432657878
+            },
+            "uvSize": {
+                "x": 0.011271159,
+                "y": 0.03116862
+            },
+            "imagePath": "3_5.jpg",
+			"outlinePath": "3_5_outline.png"
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "thumbnailPath": "1_thumb.jpg",
+    "maxFov" : 70,
+    "minFov" : 25,
+	"imagePath": "1.jpg",
+  "adjust" : {"x" : -0.00045, "y":0.00025},
+	"outlinesColor": {
+		"r": 1,
+		"g": 0.66,
+		"b": 0,
+		"a": 1.0                              
+    },
+    "strings": {
+        "languagePacks": [
+			{
+                "lang": "sk",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Martin Benka"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": "Martin Benka (1888 - 1971) svojím dielom položil základné piliere slovenskej výtvarnej kultúry. Bol zaujímavým 'renesančným' človekom so všestrannými umeleckými záujmami, výtvarnými, hudobnými a literárnymi. Umelec pôvodom zo Záhoria precestoval Európu, no najviac mu prirástla k srdcu severoslovenská horská krajina. V rámci svojej tvorby si vytvoril neopakovateľný rukopis, ktorým citlivo reflektoval obraz slovenskej prírody i diania na Jadrane."
+                    }
+                ]
+            },
+            {
+                "lang": "en",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Martin Benka"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "lang": "de",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Martin Benka"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            }
+		]
+    },
+    "treasures": [
+        {
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Martin Benka: Z Jadranu"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Krajinársko-figurálna kompozícia, krajina s morom a pobrežím s kamienkami a nízkou vegetáciou. Vľavo na obraze sú dve postavy - muž a žena s nákladmi nesenými na hlavách. Vpravo na horizonte pláva loď s rozvinutými plachtami, vľavo časť skalnatého ostrova."
+						},
+						{
+							"name": "HINT",
+							"text": "Nájdite obraz, na ktorom sú dvaja nosiči na pobreží mora a v diaľke pláva plachetnica."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "1_1_patch.png",
+            "uvPos": {
+                "x": 0.998516997,
+                "y": 0.523499886
+            },
+            "uvSize": {
+                "x": 0.021218344,
+                "y": 0.034679443
+            },
+            "imagePath": "1_1.jpg",
+			"outlinePath": "1_1_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Martin Benka: Kúpanie na Jadrane"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Štúdia zachytáva časť pokojnej hladiny mora so skalnatým pobrežím a s dvoma trojicami postáv. Vzadu na horizonte vyčnievajú z mora skaly."
+						},
+						{
+							"name": "HINT",
+							"text": "Obrázok kúpajúcich sa ľudí na Jadrane sa nachádza hneď vedľa obrazu ruín rímskeho mesta."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "1_2_patch.png",
+            "uvPos": {
+                "x": 0.962725302,      
+                "y": 0.546543463
+            },
+            "uvSize": {
+                "x": 0.012605521,
+                "y": 0.020762035
+            },
+            "imagePath": "1_2.jpg",
+			"outlinePath": "1_2_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Benka, Martin: Marokánka s batohom"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Architektonicko-figurálna kompozícia - motív z mestskej ulice Marakeša. V strede obrazu je namaľovaná žena v bielom šate, ktorý jej zahaľuje celú postavu, hlavu a tvár. Na hlave nesie náklad, ktorý si pridržiava ľavou rukou. Za postavou sú palmy a domy s rovnou strechou a postavy."
+						},
+						{
+							"name": "HINT",
+							"text": "Benka počas svojich ciest navštívil aj Maroko. Skúste nájsť obraz ženy z Marakéšu v tradičnom odeve."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "1_3_patch.png",
+            "uvPos": {
+                "x": 0.979665754,
+                "y": 0.487337440
+            },
+            "uvSize": {
+                "x": 0.013860370,
+                "y": 0.034223135
+            },
+            "imagePath": "1_3.jpg",
+			"outlinePath": "1_3_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Martin Benka: Z Lopudu (Juhoslávia)"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "V prvom pláne obrazu je namaľovaná prímorská krajina s postavami, druhý tvorí more a tretí obloha. Na pobreži s prímorskou vegetáciou a skalnatým útvarom je zobrazená kráčajúca žena v bielych šatách, dievča a chlapec na somárikovi. Rám obrazu je drevený, vyrezávaný hadovitou vlnovkou."
+						},
+						{
+							"name": "HINT",
+							"text": "Na tomto pomerne veľkom plátne zachytil Martin Benka život v prímorskej krajine a deti vezúce sa na somárikovi."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "1_4_patch.png",
+            "uvPos": {
+                "x": 0.786846909,
+                "y": 0.523328770
+            },
+            "uvSize": {
+                "x": 0.016541182,
+                "y": 0.115331964
+            },
+            "imagePath": "1_4.jpg",
+			"outlinePath": "1_4_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Martin Benka: Forum Romanum 1927"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Architektonická štúdia - pohľad na zrúcaniny antického rímskeho námestia. Dolu na obraze je päť plastík - figúr na vysokých piedestáloch, za nimi zrúcanina chrámového stĺporadia, v pozadí silueta mesta. Medzi ruinami sú naznačené postavy."
+						},
+						{
+							"name": "HINT",
+							"text": "Neprehliadnuteľným je obraz ruín antického rímskeho námestia. Kde ho nájdete?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "1_5_patch.png",
+            "uvPos": {
+                "x": 0.977612366,
+                "y": 0.530971937
+            },
+            "uvSize": {
+                "x": 0.018309377,
+                "y": 0.052361396
+            },
+            "imagePath": "1_5.jpg",
+			"outlinePath": "1_5_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Ateliér Martina Benku"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Výstava Martina Benku neobsahuje len veľké množstvo výtvarných diel z jeho tvorby. Autentickosť výstavy dotvára aj zariadenie, ktoré si Martin Benka nevytvoril, ale zakúpil a každodenne používal vo svojom ateliéri. Návštevník tak môže nahliadnuť aj do súkromia maliara a obzrieť si jeho osobný majetok, medzi ktorí patrí napríklad jeho pracovný stôl, brokátové kreslo či jeho pracovný plášť."
+						},
+						{
+							"name": "HINT",
+							"text": "Originálny plášť Martina Benku a maliarsky plášť sú neodmysliteľnou súčasťou jeho maliarskej činnosti."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "1_6_patch.png",
+            "uvPos": {
+                "x": 0.657198266,
+                "y": 0.509297285
+            },
+            "uvSize": {
+                "x": 0.040611453,
+                "y": 0.160734657
+            },
+            "imagePath": "1_6.jpg",
+			"outlinePath": "1_6_outline.png"
+        }
+    ]
+}

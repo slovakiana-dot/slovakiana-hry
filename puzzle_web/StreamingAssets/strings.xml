@@ -1,0 +1,22 @@
+<strings>
+    <package lang="sk">
+        <string name="KIOSK_HOME">Výber aplikácií</string>
+        <string name="APP_TITLE">Puzzle</string>
+        <string name="APP_RESTART">Reštart</string>
+        <string name="APP_DESCRIPTION">Zahrajte si hru Puzzle a vyskúšajte si prácu reštaurátora, ktorý má za úlohu poskladať zbierkový predmet. Zvoľte si úroveň, ktorú chcete vyskúšať a poskladajte v časovom limite vybraný predmet.</string>
+        <string name="APP_ENTER">Spustiť</string>
+        <string name="APP_SELECT_LEVEL">Vyberte si obtiažnosť</string>
+        <string name="APP_LEVEL_0">Ľahká</string>
+        <string name="APP_LEVEL_1">Stredná</string>
+        <string name="APP_LEVEL_2">Ťažká</string>
+        <string name="APP_CONGRATULATIONS">Výborne! Váš čas bol {0} sekúnd!</string>
+        <string name="APP_SELECT_LEVEL_AGAIN">Výberte si znovu obtiažnosť</string>
+        <string name="APP_TIME_STRING">čas</string>
+    </package>
+    <package lang="en">
+        <string name="KIOSK_HOME">Back to launcher</string>
+        <string name="APP_TITLE">3D models</string>
+        <string name="APP_DESCRIPTION">description....</string>
+        <string name="APP_ENTER">Start</string>
+    </package>            
+</strings>

@@ -1,0 +1,9 @@
+# Map definition file
+panoramas = ["pano01/pano01.json", "pano02/pano02.json", "pano03/pano03.json", "pano04/pano04.json", "pano05/pano05.json"]
+		
+# Color of background                      
+background = "#FFFFFF"
+
+panSpeedX = 1
+panSpeedY = 1
+zoomSpeed = 1

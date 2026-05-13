@@ -1,0 +1,227 @@
+{
+    "thumbnailPath": "5_thumb.jpg",
+    "maxFov" : 70,
+    "minFov" : 25,    
+	"imagePath": "5.jpg",
+	"outlinesColor": {
+		"r": 1,
+		"g": 0.66,
+		"b": 0,
+		"a": 1.0   
+    },
+    "strings": {
+        "languagePacks": [
+			{
+                "lang": "sk",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Majster Pavol z Levoče"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": "Výstava je zavŕšením kultúrnych aktivít, ktorými si verejnosť pripomínala 500. výročie ukončenia prác na hlavnom oltári v Chráme sv. Jakuba v Levoči. Predstavuje osobnosť Majstra Pavla z Levoče a jeho tvorbu v širšom dobovom kontexte. Rozdelená do troch sekcií ponúka prierez Pavlovým dielom, počnúc prácami, ktoré majú korene v neskorostredovekej zbožnosti, ďalšie poukazujú na jeho stretnutie s humanizmom a renesanciou a v závere aj s myšlienkami reformácie."
+                    }
+                ]
+            },
+            {
+                "lang": "en",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Majster Pavol z Levoče"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "lang": "de",
+                "strings": [
+                    {
+                        "name": "TITLE",
+                        "text": "Majster Pavol z Levoče"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "text": ""
+                    }
+                ]
+            }
+		]
+    },
+    "treasures": [
+        {
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Súsošie Malá Kalvária"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Typické znaky Majstra Pavla vidno v charaktere výjavu, štylizácii postáv a každom detaile. Kalvária z Bardejova je považovaná za poslednú prácu Majstra Pavla a reprezentovala naše kultúrne dedičstvo na mnohých domácich a zahraničných výstavách."
+						},
+						{
+							"name": "HINT",
+							"text": "Kalvária - ukrižovanie Krista. Nie vždy sú to iba veľké sochy. Nájdete vzácne súsošie Kalvárie?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "5_1_patch.png",
+            "uvPos": {
+                "x": 0.258097331,
+                "y": 0.497070313
+            },
+            "uvSize": {
+                "x": 0.015625000,
+                "y": 0.061523438
+            },
+            "imagePath": "5_1.jpg",
+			"outlinePath": "5_1_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Tabuľové maľby z hl. oltára v Lipanoch"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Dve krídla sú súčasťou oltára stojaceho vo svätyni Kostola sv. Martina v Lipanoch. Pravé krídlo zobrazuje dvojicu tabuľových malieb: Kristus pred Kaifášom a Snímanie z kríža. Ľavé krídlo obsahuje dvojicu malieb: Kristus sa lúči s Pannou Máriou a Ecce Homo."
+						},
+						{
+							"name": "HINT",
+							"text": "Dominantné maľby oltára z Lipian. Tieto 4 obrazy sú naozaj neprehliadnuteľné."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "5_2_patch.png",
+            "uvPos": {
+                "x": 0.186360677,
+                "y": 0.469970703
+            },
+            "uvSize": {
+                "x": 0.080647786,
+                "y": 0.348307292
+            },
+            "imagePath": "5_2.jpg",
+			"outlinePath": "5_2_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Súsošie oplakávania Krista"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Zreštaurované diela Kalvária z Bardejova, Sv. Mária Magdaléna zo Stratenej, ktoré Majster Pavol vytvoril po roku 1520, sa pôvodne nachádzali vo farskom kostole v Spišskej Novej Vsi. Počas jeho stavebných úprav v druhej polovici 18. storočia bolo súsošie odstránené a rozdelené. Po dlhých 245 rokoch sa opäť stretáva na pôde výstavných priestorov Bratislavského hradu."
+						},
+						{
+							"name": "HINT",
+							"text": "Desať postáv súsošia sa stretlo spoločne na tejto výstave. Kde oplakávajú Krista?"
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "5_3_patch.png",
+            "uvPos": {
+                "x": 0.304870605,
+                "y": 0.504353841
+            },
+            "uvSize": {
+                "x": 0.029093424,
+                "y": 0.027913411
+            },
+            "imagePath": "5_3.jpg",
+			"outlinePath": "5_3_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Bolestný Kristus"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Vyobrazenie Krista odeté v zlatom plášti a súčasne nahé symbolizuje Krista ako živého aj mŕtveho., Spolu s relatívne verne zvládnutými proporciami a precízne rezanými detailmi to nasvedčuje tomu, že ide o prácu z tesnej blízkosti dielenského majstra. Fyziognomické poňatie nahého mužského tela sa totiž už na konci stredoveku stalo predmetom experimentovania vo viacerých umeleckých druhoch."
+						},
+						{
+							"name": "HINT",
+							"text": "Smútok a bolesť sa dá vyčítať zo sochy Bolestného Krista. Bol jej autorom Majster Pavol? Nájdite túto sochu a dozviete sa to."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "5_4_patch.png",
+            "uvPos": {
+                "x": 0.379882813,
+                "y": 0.505208333
+            },
+            "uvSize": {
+                "x": 0.009765625,
+                "y": 0.052734375
+            },
+            "imagePath": "5_4.jpg",
+			"outlinePath": "5_4_outline.png"
+        },
+		{
+            "strings": {
+                "languagePacks": [
+				{
+					"lang": "sk",
+					"strings": [
+						{
+							"name": "TITLE",
+							"text": "Súsošie kalvária"
+						},
+						{
+							"name": "DESCRIPTION",
+							"text": "Trojica drevených sôch bola vytvorená priamo pre Kostol nanebovzatia Panny Márie, ktorý je v Spišskej Novej Vsi a v okolí vôbec najvýznamnejším. Socha ukrižovaného Krista meria 1,87 metra, socha Panny Márie 1,63 metra a socha sv. Jána 1,62 metra. Vytvorené boli okolo roku 1520 a podľa historikov umenia vykazujú črty veľmi precíznej práce."
+						},
+						{
+							"name": "HINT",
+							"text": "Oplakávaný Kristus na kríži. Sochy v životnej veľkosti nebude pre Vás problém identifikovať."
+						}
+					]
+				}
+			]
+            },
+            "patchPath": "5_5_patch.png",
+            "uvPos": {
+                "x": 0.467285156,
+                "y": 0.491007487
+            },
+            "uvSize": {
+                "x": 0.059407552,
+                "y": 0.185302734
+            },
+            "imagePath": "5_5.jpg",
+			"outlinePath": "5_5_outline.png"
+        }
+    ]
+}
