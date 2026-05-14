@@ -1,0 +1,8 @@
+{
+  "electron" : true,
+  "debug" : true,
+  "idle" : 10,
+  "suspend" : 300,
+  "pinchThrottle" : 1,
+  "start" : -1  
+}

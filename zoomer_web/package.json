@@ -1,0 +1,18 @@
+{
+  "name": "zoomcanvaselectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "bundle": "electron-packager ./ zoom --asar --platform=win32 --arch=x64 --app-version 0.0.1 --overwrite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.4",
+    "electron-log": "^4.2.2",
+    "electron-packager": "^14.2.1"
+  }
+}
